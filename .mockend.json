@@ -12,6 +12,6 @@
   },
   "Data":{
     "first":"string",
-    "exist":"bool"
+    "exist":"boolean"
   }
 }
